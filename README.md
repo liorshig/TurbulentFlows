@@ -1,6 +1,6 @@
 # Turbulent Flows: an Introduction
 
-This GitHub webpage hosts the Data and Code supporting the end-of-chapter sample exercises for the eBook by
+GitHub webpage hosts the Data and Code supporting the end-of-chapter sample exercises for the eBook by
 **Ian Castro and Christina Vanderwel, 
 [_Turbulent Flows: An Introduction,_](https://doi.org/10.1088/978-0-7503-3619-2) IOP, 2021.**
 
